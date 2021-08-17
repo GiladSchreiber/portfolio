@@ -1,0 +1,191 @@
+{
+  "details": [
+    {
+      "type": "phone",
+      "detail": "+972 505 737 493",
+      "url": ""
+    },
+    {
+      "type": "mail",
+      "detail": "giladshr60@gmail.com",
+      "url": ""
+    },
+    {
+      "type": "instagram",
+      "detail": "giladshraiber",
+      "url": "https://www.instagram.com/giladschraiber/"
+    },
+    {
+      "type": "linkdin",
+      "detail": "gilad-schreiber",
+      "url": "https://il.linkedin.com/in/gilad-schreiber-9bab30162"
+    },
+    {
+      "type": "github",
+      "detail": "giladschraiber",
+      "url": "https://github.com/GiladSchreiber"
+    }
+  ],
+  "videoUrls": [
+    "soundID_Final.mp4",
+    "dreamOrchestraFINAL.mp4",
+    "joselitoFinal.mp4",
+    "CuriousDog.mp4",
+    "GiladSchreiber_wino.mp4",
+    "2.mp4"
+  ],
+  "handlers": {
+    "left": {
+      "initial": "-88px",
+      "hovered": "0",
+      "clicked": "-180px"
+    },
+    "right": {
+      "initial": "-72px",
+      "hovered": "0",
+      "clicked": "-180px"
+    }
+  },
+
+  "contentPreview": [
+    {
+      "title": "INTERACTIVE",
+      "width": "69.5",
+      "height": "39",
+      "left": "0",
+      "top": "40vh",
+      "leftBefore": "0.5vw",
+      "topBefore": "-39.5vh",
+      "previews": [
+        {
+          "width": "28vw",
+          "height": "30vh",
+          "bottom": "0",
+          "left": "0",
+          "url": "/interactive/0.mov"
+        },
+        {
+          "width": "19vw",
+          "height": "30vh",
+          "bottom": "0",
+          "left": "29vw",
+          "url": "/interactive/1.mov"
+        },
+        {
+          "width": "18.5vw",
+          "height": "30vh",
+          "bottom": "0",
+          "left": "49vw",
+          "url": "/interactive/2.mp4"
+        }
+      ]
+    },
+    {
+      "title": "VIDEO & SOUND",
+      "width": "29.0",
+      "height": "59",
+      "left": "-29.25vw",
+      "top": "0",
+      "leftBefore": "100vw",
+      "topBefore": "0.5vh",
+      "previews": [
+        {
+          "width": "27vw",
+          "height": "30vh",
+          "bottom": "20vh",
+          "left": "0",
+          "url": "/video/0.mp4"
+        },
+        {
+          "width": "13vw",
+          "height": "19vh",
+          "bottom": "0",
+          "left": "0",
+          "url": "/video/1.mp4"
+        },
+        {
+          "width": "13.25vw",
+          "height": "19vh",
+          "bottom": "0",
+          "left": "13.75vw",
+          "url": "/video/2.mp4"
+        }
+      ]
+    },
+    {
+      "title": "DESIGN & CRAFTS",
+      "width": "29",
+      "height": "39",
+      "left": "-29.25vw",
+      "top": "0",
+      "leftBefore": "100vw",
+      "topBefore": "60.5vh",
+      "previews": [
+        {
+          "width": "27vw",
+          "height": "30vh",
+          "bottom": "0",
+          "left": "0",
+          "url": "/design/0.mp4"
+        }
+      ]
+    },
+    {
+      "title": "ANIMATION & 3D",
+      "width": "29.0",
+      "height": "59",
+      "left": "30vw",
+      "top": "0",
+      "leftBefore": "-29.5vw",
+      "topBefore": "40.5vh",
+      "previews": [
+        {
+          "width": "11.5vw",
+          "height": "19vh",
+          "bottom": "31vh",
+          "left": "0",
+          "url": "/animation/1.mp4"
+        },
+        {
+          "width": "27vw",
+          "height": "30vh",
+          "bottom": "0",
+          "left": "0",
+          "url": "/animation/2.mp4"
+        },
+        {
+          "width": "15vw",
+          "height": "19vh",
+          "bottom": "31vh",
+          "left": "12vw",
+          "url": "/animation/0.mp4"
+        }
+      ]
+    },
+    {
+      "title": "GAMING",
+      "width": "39.75",
+      "height": "39",
+      "left": "0",
+      "top": "-39.5vh",
+      "leftBefore": "30.25vw",
+      "topBefore": "100vh",
+      "previews": [
+        {
+          "width": "18.5vw",
+          "height": "30vh",
+          "bottom": "0",
+          "left": "0",
+          "url": "/gaming/0.mp4"
+        },
+        {
+          "width": "18.5vw",
+          "height": "30vh",
+          "bottom": "0",
+          "left": "19.5vw",
+          "url": "/gaming/1.mov"
+        }
+      ]
+    }
+  ]
+}

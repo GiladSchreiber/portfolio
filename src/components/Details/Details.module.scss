@@ -1,0 +1,60 @@
+@import "../main.scss";
+
+.detailsContainer {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 40px;
+  z-index: 3;
+  transition: width 0.6s ease-out, transform 0.6s ease-out;
+}
+
+a {
+  position: relative;
+}
+
+.hoverDetails {
+  position: absolute;
+  display: inline-block;
+  bottom: 2px;
+  left: 30px;
+  width: 300px;
+  font-size: 12pt;
+  font-family: "Almoni Light";
+  color: white;
+  z-index: 3;
+  opacity: 1;
+  animation: fadeIn 0.6s ease;
+}
+
+.details {
+  position: absolute;
+  display: flex;
+  width: 240px;
+  justify-content: space-between;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  mask-repeat: no-repeat;
+  mask-size: contain;
+  z-index: 3;
+  transition: background-color 0.2s ease;
+}
+
+.iconActive {
+  background-color: white;
+}
+
+.iconNotActive {
+  background-color: transparent;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+}

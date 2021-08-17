@@ -1,0 +1,37 @@
+@import "../main.scss";
+
+.wrapper {
+  position: absolute;
+  transition: transform 0.6s ease-out;
+  border: rgba($lightColor, 0.5) solid 0.2pt;
+  z-index: 5;
+}
+
+.header {
+  position: absolute;
+  font-family: "Almoni Light";
+  font-size: 24pt;
+  color: $lightColor;
+  left: 1vw;
+  top: 16px;
+}
+
+.preview {
+  position: absolute;
+  background-color: black;
+}
+
+.previewsWrapper {
+  position: absolute;
+  margin: 60px 1vw 1vw 1vw;
+}
+
+.previewVideo {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  object-fit: cover;
+}

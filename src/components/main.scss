@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Arbel Regular";
+  src: url("./../fonts/ArbelHagildaRegular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arbel Bold";
+  src: url("./../fonts/ArbelHagildaBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Almoni Light";
+  src: url("./../fonts/almoni-dl-aaa-light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Almoni Regular";
+  src: url("./../fonts/almoni-dl-aaa-regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "Almoni Bold";
+  src: url("./../fonts/almoni-dl-aaa-bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Almoni Black";
+  src: url("./../fonts/almoni-dl-aaa-black.otf") format("opentype");
+}
+
+$lightColor: rgb(220, 220, 255);
